@@ -17,7 +17,7 @@
 ## Description
 
 Class Inheritance - A class is like a blueprint; a description of the object 
-to be created. Class inheritance is a way for on class to extend another 
+to be created. Class inheritance is a way for a class to extend another 
 class and create new functionality on top of the existing, in other words, 
 classes inherit from other classes and created subclass relationships. Classes 
 use constructor methods to set properties using the "this" keyword. 
